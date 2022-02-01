@@ -8,7 +8,7 @@ features in order to give examples of the system results.
 
 # The features in the system
 
-- Clear color
+- *Clear color*
 In this featur we will remove colors from an image by the HSV model.
 You can select several colors that we want to remove 
 and thus we get an image that contains only the colors we want.
